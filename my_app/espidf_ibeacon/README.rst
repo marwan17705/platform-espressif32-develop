@@ -20,7 +20,7 @@ How to build PlatformIO based project
 .. code-block:: bash
 
     # Change directory to example
-    > cd platform-espressif32/examples/espidf-ble-eddystone
+    > cd platform-espressif32/
 
     # Build project
     > platformio run
