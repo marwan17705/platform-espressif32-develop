@@ -20,7 +20,7 @@ How to build PlatformIO based project
 .. code-block:: bash
 
     # Change directory to example
-    > cd platform-espressif32/
+    > cd platform-espressif32-develop/my_app/espidf_ibeacon
 
     # Build project
     > platformio run
